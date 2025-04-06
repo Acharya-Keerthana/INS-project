@@ -74,6 +74,7 @@ pip install -r requirements.txt
 
 ```bash
 python app.py
+streamlit run app.py
 ```
 
 ---
@@ -81,7 +82,7 @@ python app.py
 ## ▶️ Video Demo
 
 Watch the project in action here:  
-**[Video Demo Link – _insert your link here_]**
+**[Video Demo Link – (https://drive.google.com/file/d/1Q2ZvbseSIhpH2mnyXiiQkQB6uTHfCvcS/view?usp=sharing)]**
 
 ---
 
